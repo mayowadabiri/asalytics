@@ -1,0 +1,20 @@
+.card{
+   width: 304px;
+   height: 185px;
+   border-radius: 10px;
+   padding: 32px 0px;
+   border: 1px solid #B7BECC;
+   background-color: #F2FBF6;
+}
+.card p{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Readex Pro';
+}
+
+.green{
+   background-color: #6FD791;
+}
+.red{
+    background-color: #BC3131;
+}
